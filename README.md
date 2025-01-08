@@ -11,7 +11,7 @@ Steps:-
   6. Run the target project.
 
 Replace your main.dart file code with following code 
-
+```
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
@@ -38,3 +38,4 @@ class MyApp extends StatelessWidget {
   );
  }
 }
+```
